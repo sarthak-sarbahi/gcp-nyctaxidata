@@ -1,0 +1,21 @@
+Tutorial:
+https://www.youtube.com/watch?v=WpQECq5Hx9g
+https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project
+
+Data and dictionary --> https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+Yellow trip data dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+Green trip data dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_green.pdf
+FHV trip data dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_fhv.pdf
+High volume FHV data dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_hvfhs.pdf
+
+Steps:
+1. Go through data dictionary
+2. Build ER diagram (fact dimension modelling)
+----
+pyenv
+Install: https://brain2life.hashnode.dev/how-to-install-pyenv-python-version-manager-on-ubuntu-2004
+How to use: 
+> https://itslinuxfoss.com/install-use-pyenv-ubuntu/#2
+> https://towardsdatascience.com/managing-virtual-environment-with-pyenv-ae6f3fb835f8
+

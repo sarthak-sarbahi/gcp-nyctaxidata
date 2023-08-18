@@ -20,4 +20,12 @@ How to use:
 > https://towardsdatascience.com/managing-virtual-environment-with-pyenv-ae6f3fb835f8
 -----
 GitHub link: https://github.com/sarthak-sarbahi/gcp-nyctaxidata/tree/master
+------
+gcp
+
+green trips data: https://storage.googleapis.com/nyctaxidata_ss/green_tripdata_2023-01.parquet
+yellow trips data: https://storage.googleapis.com/nyctaxidata_ss/yellow_tripdata_2023-01.parquet
+mage: https://www.mage.ai/
+mage UI: http://34.100.165.24:6789/
+
 

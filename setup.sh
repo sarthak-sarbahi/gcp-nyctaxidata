@@ -10,8 +10,11 @@ sudo python3 get-pip.py
 # Install Mage
 sudo pip3 install mage-ai
 
-# Install Pandas
+# Install pandas
 sudo pip3 install pandas
+
+# Install pyarrow
+sudo pip3 install pyarrow
 
 # Install Google Cloud Library
 sudo pip3 install google-cloud

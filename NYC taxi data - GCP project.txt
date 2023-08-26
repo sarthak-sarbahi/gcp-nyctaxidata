@@ -27,6 +27,7 @@ green trips data: https://storage.googleapis.com/nyctaxidata_ss/green_tripdata_2
 yellow trips data: https://storage.googleapis.com/nyctaxidata_ss/yellow_tripdata_2023-01.parquet
 mage: https://www.mage.ai/
 mage github: https://github.com/mage-ai/mage-ai
+mage in VM: mage start nyxtaxidata
 mage UI: http://localhost:6789/
 
 

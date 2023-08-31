@@ -1,4 +1,4 @@
-### Data engineering project with GCP
+### GCP data pipeline with GCS, Compute VM, Mage & BigQuery
 
 1. Getting the data
 - Open source NYC tax data identified from [here](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).

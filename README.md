@@ -1,5 +1,7 @@
 ### GCP data pipeline with GCS, Compute VM, Mage & BigQuery
 
+![Architecture](https://github.com/sarthak-sarbahi/gcp-nyctaxidata/blob/master/gcp_nyc_architetcure.png)
+
 1. Getting the data
 - Open source NYC tax data identified from [here](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
 - Created a bucket in Google Cloud Storage (GCS) and uploaded parquet files in the newly created bucket.
